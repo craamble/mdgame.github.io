@@ -63,17 +63,17 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   var outputtext = new Array();
   outputtext[0] = "";
-  outputtext[1] = "Ключников";
+  outputtext[1] = "Кондрашев";
   outputtext[2] = "Ночниченко";
-  outputtext[3] = "Дуда";
-  outputtext[4] = "Сиренко";
-  outputtext[5] = "Вознюк";
-  outputtext[6] = "Журавская";
-  outputtext[7] = "Лавренко";
-  outputtext[8] = "Заховайко";
-  outputtext[9] = "Бабенко";
-  outputtext[10] = "Кулик";
-  outputtext[11] = "Збруцкий";
+  outputtext[3] = "Горобец";
+  outputtext[4] = "Холявик";
+  outputtext[5] = "Дуда";
+  outputtext[6] = "Шевченко";
+  outputtext[7] = "Рева";
+  outputtext[8] = "Авраменко";
+  outputtext[9] = "Степаненко";
+  outputtext[10] = "Титов";
+  outputtext[11] = "Карюкаев";
 
 
   inner.classList.add("tile-inner");
